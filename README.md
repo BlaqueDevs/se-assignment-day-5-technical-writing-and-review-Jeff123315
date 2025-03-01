@@ -21,8 +21,8 @@ Tailoring technical information based on expertise ensures clarity. For tech exp
 Reduces confusion, broadens accessibility, and ensures compliance (e.g., in healthcare). Example: "Adjust settings" vs. "Modify configurations."
 ## 6. Can you provide examples of how simplifying terms (e.g., "start" instead of "initiate") improves comprehension?
 -"Use" > "Utilize"  
-- "Fix" > "Remediate"  
-- "Show" > "Demonstrate"  
+-"Fix" > "Remediate"  
+-"Show" > "Demonstrate"  
 Simpler terms lower cognitive load.
 ## 7. How can using examples and visuals help in explaining complex concepts more clearly?
 Examples: "Encryption works like a locked mailbox."  
