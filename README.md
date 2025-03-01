@@ -45,6 +45,6 @@ Bad: "Details" and Good: "Installation Steps for Windows."
 - Quick Start: Code snippet for immediate use.
 ## 12. How can you succinctly convey the purpose and key features of a product?
 -Elevator Pitch: "Simplify data analysis with drag-and-drop tools."  
-- Benefits: "Save time with auto-generated reports."  
-- Features: Use bullets: "Real-time collaboration, cloud sync."
+-Benefits: "Save time with auto-generated reports."  
+-Features: Use bullets: "Real-time collaboration, cloud sync."
 
